@@ -11,7 +11,7 @@ for learning and experimentation — not for large-scale scraping.
 > permission to process.
 
 <p align="center">
-	<img src="https://github.com/galpt/go-mfire/screenshots/how-it-looks-like.jpg" alt="Interface preview" style="max-width:100%;height:auto;" />
+	<img src="https://github.com/galpt/go-mfire/screenshot/how-it-looks-like.jpg" alt="Interface preview" style="max-width:100%;height:auto;" />
 	<br/>
 	<em>How it looks like</em>
 </p>
