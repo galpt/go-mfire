@@ -1,20 +1,19 @@
 # go-mfire
 
 A small, focused CLI that demonstrates how to parse [MangaFire](https://mangafire.to)
-and run searches that require the site's `vrf` token. This repository is meant
-for learning and experimentation — not for large-scale scraping.
-
-> [!IMPORTANT]
-> Educational purpose only — this project is provided under the MIT license.
-> It is not intended to help circumvent paywalls, license restrictions, or
-> facilitate piracy. Use at your own risk and only with data you own or have
-> permission to process.
+and run searches that require the site's `vrf` token.
 
 <p align="center">
 	<img src="https://github.com/galpt/go-mfire/blob/main/screenshot/how-it-looks-like.jpg" alt="Interface preview" style="max-width:100%;height:auto;" />
 	<br/>
 	<em>How it looks like</em>
-</p>
+</p>s
+
+> [!IMPORTANT]
+> Educational purpose only — this project is provided under the MIT license.
+> It is not intended to help circumvent paywalls, license restrictions, or
+> facilitate piracy. This repository is meant for learning and experimentation — not for large-scale scraping. Please
+respect site terms and avoid abusive scraping.
 
 ## Table of contents
 
@@ -96,13 +95,12 @@ program. Use `mfire.GetVrfCacheSize()` to inspect the current capacity.
 > Passing a non-positive value to `SetVrfCacheSize` is a no-op. The
 > package-level cache is safe for concurrent use.
 
-## License & intent
-
-MIT — see the `LICENSE` file. This project is for research and learning. Please
-respect site terms and avoid abusive scraping.
-
 ## Contributing
 
 Contributions welcome. Open an issue or send a pull request for bugs, tests,
 or enhancements. If you'd like a small library-style API instead of the CLI,
 say so and I can add example usage.
+
+## License
+
+MIT — see the `LICENSE` file.
