@@ -7,7 +7,7 @@ and run searches that require the site's `vrf` token.
 	<img src="https://github.com/galpt/go-mfire/blob/main/screenshot/how-it-looks-like.jpg" alt="Interface preview" style="max-width:100%;height:auto;" />
 	<br/>
 	<em>How it looks like</em>
-</p>s
+</p>
 
 > [!IMPORTANT]
 > Educational purpose only — this project is provided under the MIT license.
